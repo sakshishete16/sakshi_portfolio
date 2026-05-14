@@ -37,6 +37,7 @@ Location: Mhaswad, Maharashtra, India
 Education:
 
 Diploma in Computer Engineering (82.31%)
+
 Pursuing Degree in Computer Engineering
 
 Skills:
